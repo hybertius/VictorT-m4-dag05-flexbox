@@ -54,6 +54,21 @@ section {
   flex-wrap: wrap;
 }
 
+/* justify-content: center
+Placerar alla flexobjekt tillsammans i mitten
+längs huvudaxeln. */
+
+/* justify-content: flex-end
+Flyttar alla flexobjekt till slutet av huvudaxeln. */
+
+/* justify-content: space-around
+Lägger till utrymme runt varje objekt.
+Kantutrymmet blir mindre än utrymmet mellan objekten. */
+
+/* justify-content: space-evenly
+Skapar jämnt utrymme överallt,
+inklusive mot kanterna. */
+
 article {
   background-color: #ffffff;
   border: 1px solid #e3d5c3;
